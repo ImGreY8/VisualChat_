@@ -1,3 +1,5 @@
+[![Screenshot of the plaform](VisualChatUI.jpg)]
+
 🧠 Key Features:
 Image Upload or Camera Input: Users can upload an image from local storage or capture it directly using a webcam.
 
