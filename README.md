@@ -1,4 +1,5 @@
-[![Screenshot of the plaform](VisualChatUI.jpg)]
+![image](https://github.com/user-attachments/assets/616272d3-1728-4ec2-96b6-48a128d16e1c)
+
 
 🧠 Key Features:
 Image Upload or Camera Input: Users can upload an image from local storage or capture it directly using a webcam.
