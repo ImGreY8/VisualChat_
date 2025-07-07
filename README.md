@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/616272d3-1728-4ec2-96b6-48a128d16e1c) 
 ![WhatsApp Image 2025-07-07 at 10 15 40 PM](https://github.com/user-attachments/assets/efd866d0-3d1a-450f-a591-b7a9cc8e18c3) 
-![image](https://github.com/user-attachments/assets/0e75b729-e429-4169-995e-26036f0a1691)
+![doggo2](https://github.com/user-attachments/assets/b8c214d3-f6d5-44d6-8ff4-f780177f32e0)
+
 
 🧠 Key Features:
 Image Upload or Camera Input: Users can upload an image from local storage or capture it directly using a webcam.
